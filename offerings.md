@@ -36,7 +36,7 @@ description: "Past offerings of CMPSC W 8"
 | S19 | Matni|  <https://ucsb-cs8.github.io/s19-matni/> |
 | W19 | Matni| <https://github.com/ucsb-cs8/w19-matni> |
 | F18 | Mirza|  <https://ucsb-cs8-f18.github.io/> |
-| M18 | Koc|  |
+| M18 | Koc| <http://koclab.cs.ucsb.edu/teaching/cs8/> |
 | S18 | Conrad| <https://ucsb-cs8-s18.github.io/> |
 | W18 | Wang| <https://ucsb-cs8-w18-wang.github.io/> |
 | W18 | Matni| <https://ucsb-cs8-w18-matni.github.io/> |
