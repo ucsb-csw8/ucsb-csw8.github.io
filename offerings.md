@@ -46,7 +46,7 @@ description: "Past offerings of CMPSC W 8"
 | W17 | Egecioglu|  |
 | M16 | Koc|  |
 | S16 | Koc|  |
-| W16 | Wang YF|  |
+| W16 | Wang YF| <https://sites.cs.ucsb.edu/~yfwang/courses/cs8/> |
 | F15 | Egecioglu|  |
 | M15 | Koc|  |
 | S15 | Costanzo|  |
