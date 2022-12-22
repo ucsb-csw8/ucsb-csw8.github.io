@@ -11,7 +11,7 @@ description: "Past offerings of CMPSC W 8"
 | Qtr | Instructor | Web Site (if available) |
 |-----|------------|--------------------------|
 | F22 | Matni| <https://ucsb-cs8.github.io/f22/> |
-| M22 | Kharitonova| <https://ucsb-csw8.github.io/m22/> |
+| M22 | Kharitonova| <https://ucsb-csw8.github.io/m22-ykk/> |
 | S22 | Kharitonova| <https://ucsb-csw8.github.io/s22>   |
 | W22 | Kharitonova| <https://ucsb-csw8.github.io/w22> |
 | F21 | Kharitonova| |
