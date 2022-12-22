@@ -29,18 +29,19 @@ description: "Past offerings of CMPSC W 8"
 | F20 | Kharitonova|  |
 | M20 | Moehlis|  |
 | S20 | Mirza|  |
-| W20 | Kharitonova|  |
-| F19 | Kharitonova|  |
-| M19 | Wang RK|  |
+| W20 | Kharitonova|  <https://ucsb-cs8.github.io/w20/> |
+| F19 | Kharitonova|  <https://ucsb-cs8.github.io/f19/> |
+| M19 | Wang RK|  <https://ucsb-cs8.github.io/m19-wang/> |
 | M19 | ElSherif | <https://ucsb-cs8.github.io/m19-elsherif/> |
-| S19 | Matni|  |
-| W19 | Matni|  |
-| F18 | Mirza|  |
+| S19 | Matni|  <https://ucsb-cs8.github.io/s19-matni/> |
+| W19 | Matni| <https://github.com/ucsb-cs8/w19-matni> |
+| F18 | Mirza|  <https://ucsb-cs8-f18.github.io/> |
 | M18 | Koc|  |
-| S18 | Conrad|  |
-| W18 | Matni|  |
-| F17 | Mirza|  |
-| M17 | Conrad|  |
+| S18 | Conrad| <https://ucsb-cs8-s18.github.io/> |
+| W18 | Wang| <https://ucsb-cs8-w18-wang.github.io/> |
+| W18 | Matni| <https://ucsb-cs8-w18-matni.github.io/> |
+| F17 | Mirza|  <https://ucsb-cs8-f17.github.io/> |
+| M17 | Conrad| <https://ucsb-cs8-m17.github.io/> |
 | S17 | Costanzo|  |
 | W17 | Egecioglu|  |
 | M16 | Koc|  |
