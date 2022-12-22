@@ -77,7 +77,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
-  just-the-docs
+  just-the-docs (= 0.3.3)
 
 RUBY VERSION
    ruby 2.7.7p221
