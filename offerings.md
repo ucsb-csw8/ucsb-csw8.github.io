@@ -12,6 +12,7 @@ description: "Past offerings of CMPSC W 8"
 |-----|------------|--------------------------|
 | F22 | Matni| <https://ucsb-cs8.github.io/f22/> |
 | M22 | Kharitonova| <https://ucsb-csw8.github.io/m22-ykk/> |
+| M22 | El Sayed  | <https://ucsb-csw8.github.io/m22-shereen/> |
 | S22 | Kharitonova| <https://ucsb-csw8.github.io/s22>   |
 | W22 | Kharitonova| <https://ucsb-csw8.github.io/w22> |
 | F21 | Kharitonova| |
@@ -21,7 +22,7 @@ description: "Past offerings of CMPSC W 8"
 
 | Qtr | Instructor | Web Site (if available) |
 |-----|------------|--------------------------|
-| F22 | Matni|  |
+| F22 | Matni| <https://ucsb-cs8.github.io/f22/>  |
 | M21 | Solis|  |
 | S21 | Kharitonova|  |
 | W21 | Kharitonova|  |
@@ -31,6 +32,7 @@ description: "Past offerings of CMPSC W 8"
 | W20 | Kharitonova|  |
 | F19 | Kharitonova|  |
 | M19 | Wang RK|  |
+| M19 | ElSherif | <https://ucsb-cs8.github.io/m19-elsherif/> |
 | S19 | Matni|  |
 | W19 | Matni|  |
 | F18 | Mirza|  |
