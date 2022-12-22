@@ -42,7 +42,7 @@ description: "Past offerings of CMPSC W 8"
 | W18 | Matni| <https://ucsb-cs8-w18-matni.github.io/> |
 | F17 | Mirza|  <https://ucsb-cs8-f17.github.io/> |
 | M17 | Conrad| <https://ucsb-cs8-m17.github.io/> |
-| S17 | Costanzo|  |
+| S17 | Costanzo| <https://sites.cs.ucsb.edu/~mikec/cs8/> |
 | W17 | Egecioglu|  |
 | M16 | Koc|  |
 | S16 | Koc|  |
