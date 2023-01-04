@@ -89,14 +89,20 @@ The ONDAS Student Center Peer Mentors offer helpful advice in these videos:
 </details>  
  
 
-</details>  
 <details>
 <summary>
 Note-taking for Online Courses
 </summary>
  
- TODO: Fill this in 
-  
+Everyone has their own preferences for note-taking, but you may want to try different strategies for an online course.
+
+Just because you can rewatch a video or look at slides online doesn’t mean you shouldn’t take notes. Otherwise, you’ll just be re-reading or rewatching a lot, which isn’t a very effective learning technique. 
+
+You'll most likely be using a single screen, so you'll have to balance viewing your video/participating in discussion with note-taking. Many guides about online learning recommend you take handwritten notes to vary the media you are using. You can pause videos and note timestamps in your notes to return to spots later.
+
+Learn new strategies by viewing the following presentation:
+
+* [Online Learning: Note-Taking Strategies](https://www.youtube.com/watch?v=JCf8_DUT5YA&feature=youtu.be)
 </details>  
  
 <details>
