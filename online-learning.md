@@ -225,7 +225,6 @@ Please remember that you also have access to the following resources remotely:
 * ONDAS Student Center & Transfer Student Center Professional Staff: 
   * [OSC Staff Zoom Office Hours](https://calendar.google.com/calendar?cid=dWNzYi5lZHVfNnJoazNhMHQ4YW9jNjI0YzFxbmdwYjAwcTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
   * [TSC Staff Zoom Office Hours](https://calendar.google.com/calendar?cid=dWNzYi5lZHVfbWFsazRubzRwaTJrNzBhNDE3cHFsMGU2bmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-* Graduate Student Mentors: ONDAS Student Center, Transfer Student Center
 * Peer Mentors: 
   * [ONDAS Student Center](https://ondas.ucsb.edu/)
   * [Transfer Student Center](https://transfercenter.ucsb.edu/)
