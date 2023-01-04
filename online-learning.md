@@ -34,50 +34,69 @@ Before you begin, consider the following:
 <details>
 <summary>
 Exploring New Study Habits
-<summary>
+</summary>
+ 
+ TODO: Fill this in 
   
 </details>  
 
 <details>
 <summary>
 Essentials of Time Management
-<summary>
+</summary>
+ 
+ TODO: Fill this in 
   
 </details>  
+ 
 
 </details>  
 <details>
 <summary>
 Note-taking for Online Courses
-<summary>
+</summary>
+ 
+ TODO: Fill this in 
   
 </details>  
+ 
 <details>
 <summary>
 Mindfulness Techniques for Remote Learning
-<summary>
+</summary>
+ 
+ TODO: Fill this in 
   
 </details>  
+ 
 <details>
 <summary>
 Importance of Connections
-<summary>
+</summary>
+ 
+ TODO: Fill this in 
   
 </details>  
-  
+
 <details>
 <summary>
 Checking Email
-<summary>
+</summary>
+ 
+ TODO: Fill this in 
   
 </details>  
+
     
 <details>
 <summary>
 Study Spaces
-<summary>
+</summary>
+ 
+ TODO: Fill this in 
   
 </details>  
+
     
 
 # Additional Learning Support
