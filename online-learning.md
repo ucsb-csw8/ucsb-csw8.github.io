@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Effective Strategies for Online Learning"
+title: "Online Learning"
 layout: default
 nav_order: 10
 description: "How to succeed in an online course (in general)"
@@ -139,17 +139,53 @@ Now, more than ever, it's important to take care of ourselves and our mental hea
 Importance of Connections
 </summary>
  
- TODO: Fill this in 
-  
+Remote learning might feel isolating, but it doesn't have to be a lonely experience. We highly recommend staying connected to your instructors, classmates, friends, and family during this time. It's important to feel connection and community.
+
+Participate in class discussions, online forums, and virtual office hours. Contribute your ideas and don't be afraid to ask questions! Most likely, you're asking a question that someone else also has.
+
+Online study groups are possible! Connect with classmates through GauchoSpace and form accountability buddies. Having a friend to discuss assignments, review material, and work through main points is important. Consider using one of the following to connect with others:
+
+* Zoom 
+* Google Hangouts
+* FaceTime
+* WhatsApp
+* GroupMe
+
+The ONDAS Student Center Peer Mentors have a video with
+[tips on how to form and structure a virtual study group](https://www.youtube.com/watch?v=Iq8VVLAlfxM&t=2s).
+
+Student organizations can also be a way to form connections. For more information on student orgs, visit [Shoreline (information on events and registered student groups)](https://shoreline.ucsb.edu/home_login)
+
 </details>  
 
 <details>
+
 <summary>
-Checking Email
+Using Email
 </summary>
  
- TODO: Fill this in 
-  
+It's important to check your UCSB email daily. You'll want to pay attention to emails from your instructors but also notifications that you may be receiving from GauchoSpace and other online learning tools.
+
+Compose clear email messages and practice good email etiquette. In a large course, your professor might be receiving a high volume of emails. Please note that it may take some time for your professors to get back to you.
+
+Email tips:
+
+First, if your instructor has asked you to use something other than email (e.g. Piazza, Slack, a Gauchospace or Canvas forum), please try that first.
+
+If you are sending an email:
+
+* Use your UCSB email address
+* Address your instructor professionally
+* Tell them your name and what class you are in
+* State your question or request
+* If appropriate, state what you would like to see happen
+* End with a salutation
+* Sign your full name
+
+Here's an example email demonstrating these tips:
+
+
+
 </details>  
 
     
