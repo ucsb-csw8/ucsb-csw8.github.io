@@ -31,13 +31,54 @@ Before you begin, consider the following:
 
 # Resources and Stratgies for UCSB Students
 
+<details>
+<summary>
 Exploring New Study Habits
+<summary>
+  
+</details>  
+
+<details>
+<summary>
 Essentials of Time Management
+<summary>
+  
+</details>  
+
+</details>  
+<details>
+<summary>
 Note-taking for Online Courses
+<summary>
+  
+</details>  
+<details>
+<summary>
 Mindfulness Techniques for Remote Learning
+<summary>
+  
+</details>  
+<details>
+<summary>
 Importance of Connections
+<summary>
+  
+</details>  
+  
+<details>
+<summary>
 Checking Email
+<summary>
+  
+</details>  
+    
+<details>
+<summary>
 Study Spaces
+<summary>
+  
+</details>  
+    
 
 # Additional Learning Support
 
