@@ -7,6 +7,26 @@ description: "How to succeed in an online course (in general)"
 permalink: /online-learning
 ---
 
+<style>
+ summary { 
+     border: 4px solid green;
+     padding: 1em;
+     background-color: #ffe;
+     margin-bottom: 1em;
+ }
+    
+ details { 
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border: 4px solid blue;
+    padding: 1em;
+ }
+</style>
+
+
 # Effective Strategies for Online Learning
 
 This document was adapted from material originally posted during the Covid-19 Pandemic by the [UCSB Office of Instructional Development](https://id.ucsb.edu).  [The original source
@@ -55,8 +75,17 @@ Learning online will likely mean you need to practice study habits that differ t
 Essentials of Time Management
 </summary>
  
- TODO: Fill this in 
-  
+Remote learning might mean that you have less structure in your day. It's very tempting to sleep in each day and put off tasks until you really have to do them. However, that is not an effective way to manage your time or facilitate your learning.
+
+Use your Google Calendar and create some structure for your time. Having a routine and entering it into your calendar is helpful for tracking whether you're also taking care of your mental and physical health. Breaks, exercise, and fresh air are necessary!
+
+The ONDAS Student Center Peer Mentors offer helpful advice in these videos:
+
+* [Time Management during Remote Instruction](https://www.youtube.com/watch?v=0Wjz522Ybak)
+* [Getting Organized](https://youtu.be/EUv9iU4-C4s)
+* [How to Use Your Google Calendar](https://www.youtube.com/watch?v=daPu_IpIDl8)
+* [Printable CLAS Time Management and Calendar Sheets](https://clas.sa.ucsb.edu/resources-overview/time-management-calendar-sheets)
+
 </details>  
  
 
