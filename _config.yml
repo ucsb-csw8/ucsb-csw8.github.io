@@ -10,6 +10,11 @@ incremental: true
 
 title: "CSW 8"
 
+kramdown:
+   # This makes sure we can put markdown inside html tags such as
+   # <details> and <summary>.  See: https://kramdown.gettalong.org/parser/kramdown.html
+   parse_block_html: true
+
 mermaid:
   # Version of mermaid library
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/

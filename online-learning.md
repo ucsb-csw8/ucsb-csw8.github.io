@@ -9,20 +9,26 @@ permalink: /online-learning
 
 <style>
  summary { 
-     border: 4px solid green;
-     padding: 1em;
-     background-color: #ffe;
-     margin-bottom: 1em;
+     border: 4px solid #9CBEBE;
+     padding: 0.5em;
+     background-color:  #DAE6E6;
+     margin-bottom: 0.5em;
+ }
+
+ summary p {
+  margin: 0px;
+  padding 0px;
+  display: inline-block;
  }
     
  details { 
-    margin-top: 1em;
-    margin-bottom: 1em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
-    border: 4px solid blue;
-    padding: 1em;
+    width: 95%;
+    border: 4px solid #047C91;
+    padding: 0.5em;
  }
 </style>
 
@@ -125,6 +131,7 @@ Now, more than ever, it's important to take care of ourselves and our mental hea
 * [Learn the Ocean (Ujjayi) Breath](/assets/Learn-the-Ocean-Ujjayi-Breath.pdf)
  
  
+   
 </details>  
  
 <details>
