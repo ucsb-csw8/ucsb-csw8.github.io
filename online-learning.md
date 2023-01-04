@@ -36,7 +36,13 @@ Before you begin, consider the following:
 Exploring New Study Habits
 </summary>
  
- TODO: Fill this in 
+Learning online will likely mean you need to practice study habits that differ to ones practiced during face-to-face instruction. Below are some suggested strategies and tools to try out for online learning:
+
+* Exercises for online learning from CLAS: logon to [myCLAS](https://myclas.sa.ucsb.edu/login.aspx) and search for the Academic Skills workshop titled Learning Online: Three Exercises.
+* Reading effectively using the [SQ3R method](https://www.youtube.com/watch?v=ona44EaMSv4)
+* Distributed practice: Break up your studying into short sessions distributed across time - the opposite of cramming at the last minute.
+* Practice testing: Getting something wrong can help you retain the right answer. The best practice tests are the ones that force you to do free recall, not just recognize the right answer. More practice tests are better than fewer.
+* Self-explanation: Having to explain to yourself why something is correct or how information fits together significantly aids learning. The practice of relating it to other information makes this different from just summarizing.
   
 </details>  
 
