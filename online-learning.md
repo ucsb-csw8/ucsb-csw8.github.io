@@ -9,7 +9,7 @@ permalink: /online-learning
 
 # Effective Strategies for Online Learning
 
-This document was adapted from material originally posted during the Covid-19 Pandemic by the UCSB Office of Instructional Development.  [The original source
+This document was adapted from material originally posted during the Covid-19 Pandemic by the [UCSB Office of Instructional Development](https://id.ucsb.edu).  [The original source
 is available at archive.org](https://web.archive.org/web/20221006021605/https://keeplearning.id.ucsb.edu/2020/03/22/effective-strategies-for-remote-learning/)
 
 Taking an online class when you are used to in-person classes means a transition in learning environments, approaches, and strategies. 
