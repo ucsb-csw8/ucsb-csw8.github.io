@@ -110,8 +110,21 @@ Learn new strategies by viewing the following presentation:
 Mindfulness Techniques for Remote Learning
 </summary>
  
- TODO: Fill this in 
-  
+Now, more than ever, it's important to take care of ourselves and our mental health. At times, this experience may get frustrating and stressful, but we know you'll get through this. Below are resources for incorporating mindfulness into the remote learning experience from Dr. Virginia Beaufort, Director of the Undergraduate Mentorship Program. 
+ 
+**Mindfulness Techniques for Concentration & Focus:**
+
+* [Introduction](https://www.youtube.com/watch?v=GisVmPtERpY&feature=youtu.be)
+* [Mindfulness](https://www.youtube.com/watch?v=aFaQqh1XVc4)
+* [Mindful Focus](https://web.archive.org/web/20221006021605/https://www.youtube.com/watch?v=-xEfrionXog&feature=youtu.be)
+* [Mindfulness Exercises for Focus & Stress Reduction](https://www.youtube.com/watch?v=KHMGjsIIAhI)
+
+**Handouts:**
+
+* [Mindfulness Techniques for Concentration & Focus](/assets/Mindfulness-Exercises-for-Focus-and-Stress-Reduction.pdf)
+* [Learn the Ocean (Ujjayi) Breath](/assets/Learn-the-Ocean-Ujjayi-Breath.pdf)
+ 
+ 
 </details>  
  
 <details>
