@@ -195,7 +195,21 @@ Here's an example email demonstrating these tips:
 Study Spaces
 </summary>
  
- TODO: Fill this in 
+Both indoor and outdoor spaces might be conducive to your specific study habits/style.
+
+At home, away from UCSB, and struggling to find a study space? Consider the following:
+
+* Quiet parks (use sunblock and remember to hydrate)
+* Patios, balconies, or other outdoor areas adjacent to your home
+* A part of the home that can be repurposed, which might be quieter (the garage, attic, or basement)
+* A stationary vehicle
+
+In the UCSB vicinity, and struggling to find a study space? Consider the following:
+
+* SRB - Seating and electrical outlets are available outdoors on the ocean and mountain sides of the building
+* HSSB Quad - Seating and solar charging stations are available
+* Buchanan Hall Quad - Seating is available
+* SSMS Quad - Limited seating is available, but this is a less populated option 
   
 </details>  
 
@@ -206,10 +220,12 @@ Study Spaces
 Please remember that you also have access to the following resources remotely:
 
 * Office hours with professors and TAs
-* CLAS: groups, drop-ins, workshops, & Academic Skills consultations
-* Educational Opportunity Program (EOP) Counselors
-* ONDAS Student Center & Transfer Student Center Professional Staff: OSC Staff Zoom Office Hours, TSC Staff Zoom Office Hours
+* [CLAS](https://clas.sa.ucsb.edu/services/enrollment-schedules): groups, drop-ins, workshops, & Academic Skills consultations
+* [Educational Opportunity Program (EOP) Counselors](https://eop.sa.ucsb.edu/)
+* ONDAS Student Center & Transfer Student Center Professional Staff: 
+  * [OSC Staff Zoom Office Hours](https://calendar.google.com/calendar?cid=dWNzYi5lZHVfNnJoazNhMHQ4YW9jNjI0YzFxbmdwYjAwcTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+  * [TSC Staff Zoom Office Hours](https://calendar.google.com/calendar?cid=dWNzYi5lZHVfbWFsazRubzRwaTJrNzBhNDE3cHFsMGU2bmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 * Graduate Student Mentors: ONDAS Student Center, Transfer Student Center
 * Peer Mentors: ONDAS Student Center, Transfer Student Center, Educational Opportunity Program
-* ONDAS Student Center Peer Mentors put together this list of FREE online resources that center on organization, productivity, and self-care.
+* ONDAS Student Center Peer Mentors put together this [list of FREE online resources](https://docs.google.com/document/d/1XTTq2R4lICG7M-ZZzdIglwm0tsQ1B_y_MNSfF75lNRg/edit) that center on organization, productivity, and self-care.
 
