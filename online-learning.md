@@ -184,6 +184,7 @@ If you are sending an email:
 
 Here's an example email demonstrating these tips:
 
+![image](https://user-images.githubusercontent.com/1119017/210658385-ce575e0f-b74f-4a5a-b13a-9c430c735001.png)
 
 
 </details>  
