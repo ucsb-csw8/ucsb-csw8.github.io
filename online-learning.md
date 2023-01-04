@@ -44,6 +44,10 @@ Learning online will likely mean you need to practice study habits that differ t
 * Practice testing: Getting something wrong can help you retain the right answer. The best practice tests are the ones that force you to do free recall, not just recognize the right answer. More practice tests are better than fewer.
 * Self-explanation: Having to explain to yourself why something is correct or how information fits together significantly aids learning. The practice of relating it to other information makes this different from just summarizing.
   
+![image](https://user-images.githubusercontent.com/1119017/210651613-5f5b6b98-67c1-4544-a393-489e95e1c50b.png)
+
+(Cook, Kennedy, & McGuire 2013; Dunlosky, 2013; McDaniel & Bratter, 2020)  
+  
 </details>  
 
 <details>
