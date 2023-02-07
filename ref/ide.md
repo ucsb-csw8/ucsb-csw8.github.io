@@ -3,6 +3,7 @@ layout: home
 title: Install Python and its IDE
 parent: References
 nav_order: 5
+py_version: 3.11.1
 seo:
   type: Reference
   name: A guide for how to install Python Interpreter and use IDE/IDLE
@@ -22,7 +23,9 @@ seo:
 1. Go to <https://www.python.org/>
 1. Roll over the **Downloads** link on the top blue bar. You should get a button to download the version for your operating system.
 1. Be sure to choose the latest Python version that starts with **`3.`**
-1. Double-click the downloaded file to install. **Follow all instructions.**
+   - The last time these instructions were updated, the most recent version was {{page.python_version}}
+   - By the time you read this, the current version may be different.
+3. Double-click the downloaded file to install. **Follow all instructions.**
 
 ### Mac users NOTE
 At the end of the install, click on **Install Certificates** to install a set of current SSL root certificates. ([See screenshots.](https://docs.google.com/presentation/d/1Abq0U0BFuMygqpWpsek4q_3JKRC_fbQZRLKXTA_gvhk/edit#slide=id.g110b681bc66_0_9))
@@ -49,9 +52,9 @@ Open your browser and go to <https://www.python.org/download>
 
 ### Step 2. Download the latest version
 
-Click on the button "Download Python 3.10.X" - the specific version can change, so do not worry about it, as long as it is greater than 3.7.
+Click on the button "Download Python {{page.python_version}}" - the specific version can change, so do not worry about it, as long as it is greater than 3.7.
 
-Pressing the “Python 3.10.X” button will initiate the downloading process for the python installer (python installer `!=` python interpreter).
+Pressing the “Python {{page.python_version}}” button will initiate the downloading process for the python installer (python installer `!=` python interpreter).
 
 If your browser asks you if you want to download this .exe file - choose “yes”.
 
@@ -75,38 +78,25 @@ Click "Run".
 ### Step 4. IMPORTANT! 
 #### Add Python to the PATH
 **IMPORTANT!** If you are on a Windows system - <span style="color:red"> make sure that the last checkbox is marked!</span>
-!['A screenshot of showing the checked box to add Python to PATH.']({{ site.baseurl }}/assets/images/ide/check-add-to-path.png)
 
-
-This will help your computer know where the Python interpreter is located. 
-You won’t fail if this is not marked, but it can bring some small difficulties to you next. 
-(_If you want to know more about that - look up "Environment Variable PATH"_.)
-
-If later you will have some failures in installation (unlikely) you can restart the installation without any checkmark here.
-
-#### Save the Python path
-
-<span style="color:blue">Copy or Print Screen or manually write down the line below the “Install now” line.</span>
-It will tell you where your Python Interpreter stored. You will need it if you want to run Python on the Python Interpreter (something that we are not going to do in this course).
-
-!['A screenshot of the Python PATH.']({{ site.baseurl }}/assets/images/ide/python-path.png)
+!['A screenshot of showing the checked box to add Python to PATH.']({{ site.baseurl }}/assets/images/ide/python-3.11.1-windows-click-add-python.exe_to_path.gif)
 
 
 ### Step 5. Install
 
 Press the “Install Now” line.
-!['A screenshot of the setup progress.']({{ site.baseurl }}/assets/images/ide/setup-progress.png)
+!['A screenshot of the setup progress.']({{ site.baseurl }}/assets/images/ide/python-3-11-1-windows-install-click-install-now.gif)
 
 Wait until the installation process is finished.
 
 
-### Step 6. Celebrate or Troubleshoot
+### Step 6. Celebrate
 
-See the “Installation was Successful” line. If you have not seen it, or you saw “Installation Failed” - that means your Python Interpreter is not installed! Return to the previous steps.
-!['A screenshot of the successful setup screen.']({{ site.baseurl }}/assets/images/ide/setup-success.png)
-
+You should now see the “Setup was Successful” line as shown in the animation above. 
 
 Congratulations! You’ve successfully done the installation. Now we learn how to check that the Python interpreter works.
+
+If something went wrong, please seek out help during lab or office hours.
 
 ---
 
@@ -121,10 +111,14 @@ Open IDLE on your computer. If you have installed Python - IDLE goes with it in 
 ⚠️  **IMPORTANT**: When IDLE opens, it opens what is called a **Python Console** - you'll see **"IDLE Shell"** or **"Python Shell"** when you look at the very top of that window.
 * If you are seeing `Type "help", "copyright", "credits" or "license()" for more information.` in this window, then you are in the IDLE Python Shell.
 * <span style="color:red">**DO NOT** use the IDLE/Python Shell to _write_ the code for this class.</span>
+* <span style="color:green">**INSTEAD** use the "New File" to open a new window when you want to write code (as explained below)</span>
 
-Instead, **create a new file**, so that your code will be saved on your computer and can be re-run.
+Here's why:
+* When you **create a new file**, your code will be saved on your computer and can be re-run easily.
+* Code you type into the **IDLE Shell** is intended for quick experiments; it cannot be saved in a way that it can be re-run easily.
 
 ### Create a new Python file in IDLE
+
 !['A screenshot of the menu showing how to create a new file using New File submenu.']({{ site.baseurl }}/assets/images/ide/new-file.png)
 
 Use `“File” -> “New File”` to create a new file or `“File” -> “Open”` to open one that you previously created. 
@@ -168,9 +162,11 @@ Have a productive week!
 Acknowledgements
 {: .fs-4 }
 
-Specials thanks to Liubov Kurafeeva and Roman Beltiukov for creating the initial instructions and screenshots.
-{: .fs-3 }
+* Specials thanks to Liubov Kurafeeva and Roman Beltiukov for creating the initial instructions and screenshots.
+  {: .fs-3 }
+* Updated W23 by P. Conrad
+  {: .fs-3 }
 
-General instructions were adopted from <https://python-adv-web-apps.readthedocs.io/en/latest/>.
-{: .fs-3 }
+* General instructions were adopted from <https://python-adv-web-apps.readthedocs.io/en/latest/>.
+  {: .fs-3 }
 
