@@ -23,6 +23,8 @@ mermaid:
 
 # Aux links for the upper right navigation
 aux_links:
+  "w23-project (both sections)":
+    - "//ucsb-csw8.github.io/w23-project/"
   "w23c (Conrad, MW)":
     - "//ucsb-csw8.github.io/w23c/"
   "w23k (Kharitonova, TR)":
